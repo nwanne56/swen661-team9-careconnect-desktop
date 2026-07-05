@@ -1,9 +1,8 @@
 # CareConnect - Desktop (Electron + React), SWEN 661 - Week 8
 
 A desktop-first and keyboard-first, WCAG 2.2 AA rebuild of the CareConnect
-health portal. This Week 8 deliverable completes the Electron desktop app with
-native menus, keyboard shortcuts, React-based renderer widgets, keyboard
-navigation testing, and Windows packaging support.
+health portal. It includes native menus, keyboard shortcuts, React-based
+renderer widgets, keyboard navigation testing, and Windows packaging support.
 
 ![CareConnect dashboard](./figma-screens/dashboard.png)
 
